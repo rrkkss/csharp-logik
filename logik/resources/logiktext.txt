@@ -1,0 +1,8 @@
+Uzivatel zacne stistknutim tlacitka start, pote zada cisla <0;7> do textboxu a da kontrolu.
+
+Jednotliva cisla predstavuji barvy - 0 bila, 1 seda, 2 cerna, 3 zluta, 4 zelena, 5 modra, 6 ruzova a 7 cervena.
+
+Uzivatel ma 10 pokusu na uhadnuti schovane kombinace pomoci vypisu.
+
+Cerna znamena spravna barva na spravne pozici a bila znamena jen spravna barva.
+(Ve vypisu je dulezity pocet a ne poradi ci pozice)
